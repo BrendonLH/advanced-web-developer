@@ -30,7 +30,13 @@
     - [Translate](https://codepen.io/brendonlh/pen/MWKeppg?editors=1100)
     - [Scale](https://codepen.io/brendonlh/pen/XWXKMZK)
     - [Rotate](https://codepen.io/brendonlh/pen/zYrBZLo)
-
+ 3. Transitions 
+    1. *Transitions allow you to do something over the course of a given time.*
+    2. Four transition properties:
+        1. transition-duration (how long animation should last)
+        2. transition-property ()
+        3. transtion-timing-function ()
+        4. transtion-delay ()
 ### Flexbox
 
 ### Project One
