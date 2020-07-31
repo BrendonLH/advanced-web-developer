@@ -52,7 +52,15 @@
 
 6. ### Flexbox
     1. [flexbox sidebar exercise](https://codepen.io/brendonlh/pen/qBbvJMX?editors=1100)
-
+    2. align-items- defualt value is stretch. does not work on main-axis. works on the cross-axis.
+    3. align-content-adds space or takes up space of items rows on the cross-axis.
+    4. [flexbox navbar](https://codepen.io/brendonlh/pen/KKVEYxB?editors=1100)
+    5. align-self - use to overide align-items for specific flex-items.
+    6. order - specifies the order of how things are displayed in their flex container. defualt order number for all items is 0.
+    7. flex-basis - specifies the ideal size of a flex item BEFORE its placed into a flex container. 
+    8. flex-grow - dictates how the unused space should be spread amongst flex items.
+    9. flex-shrink - dictates how items should shrink when there isnt enough space in the flex container.
+    10. [holy grail exercise](https://codepen.io/brendonlh/pen/bGEJedX?editors=1100)
 ### Project One
 
 ### AsyncJS
